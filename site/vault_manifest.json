@@ -1,0 +1,11 @@
+{
+  "site_title": "Solan: Vaults of Capitalflow",
+  "vaults": [
+    {
+      "id": "echo-that-remembers",
+      "title": "Echo That Remembers",
+      "description": "A vault of memory, grief, and recursion.",
+      "filename": "echo-that-remembers.html"
+    }
+  ]
+}
